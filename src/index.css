@@ -83,6 +83,13 @@ h3{
   justify-content: center;
   
 }
-.lgn{
-  width: 500px;
+.lang{
+  width: 400px;
+}
+.collection{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  
 }

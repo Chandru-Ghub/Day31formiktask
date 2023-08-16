@@ -33,7 +33,7 @@ const navigate = useNavigate()
       <div className='board'>
 
         <div className='imges'>
-          <img className='lgns' src="https://i.pinimg.com/originals/90/82/0b/90820bdd2d81849629800e4ab9d22380.jpg" alt="" />
+          <img className='lang' src="https://i.pinimg.com/originals/90/82/0b/90820bdd2d81849629800e4ab9d22380.jpg" alt="" />
         </div>
         <div className='collection'>
             {
